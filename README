@@ -1,7 +1,16 @@
-recursive menu wheel - heatmap commandslike NCIS tv serie...using thjit.org tools 
-combination for recursive rendering and filtering of an  xml database.
+js ,  xquery.
+wish create a menu wheel interacting with a  heatmap 
+like NCIS Miami tv serie...using thjit.org tools .
 
-Objective is obtain an incredibly fast interface to modify input and output on the fly
+objective: create a dynamic contest menu of commands, a very fast and effective interface.
+So that when user interacts with a heatmap chart , wheel menu commands list change too.
+
+contestualizing the wheel menu toward the most likely commands user wishes to execute given  previous choices.
+
+---------------------
+Broadly speaking :  graphically do a recursive rendering and filtering of an xml database 
+through clicking on either the chart or  the wheel whose list of possible commands change on context.
+---------------------
 
 some starting points:
 example of XmlDb  I wish use eXist xmldb,  default configuration to make it the simplest possible.
